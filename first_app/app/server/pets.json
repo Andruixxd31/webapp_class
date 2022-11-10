@@ -1,0 +1,25 @@
+{
+    "pet1": {
+        "name": "Barry",
+        "type": "cat",
+        "owner": "eldecesar",
+        "color": "white and black",
+        "id": 1
+
+    },
+    "pet2": {
+        "name": "Bingo",
+        "type": "Dog",
+        "owner": "Vico",
+        "color": "white and black",
+        "id": 2
+
+    },
+    "pet3": {
+        "name": "Cash",
+        "type": "daog",
+        "owner": "yo merengues",
+        "color": "white and brown",
+        "id": 3
+    }
+}
